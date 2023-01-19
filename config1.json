@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "is_active": 1,
+    "method": "HTTP",
+    "address": "http://127.0.0.1:5000/add",
+    "frequency": 5,
+    "broker": "test.mosquitto.org",
+    "topic": "weather"
+}
